@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,12,24&text=ADNAN%20SHAIKH&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=ff0000&strokeWidth=2&desc=x219%20%7C%20Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker&descAlignY=70&descSize=22"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,12,24&text=ADNAN%20SHAIKH&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=ff0000&strokeWidth=2&desc=AndiPop%20%7C%20Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker&descAlignY=70&descSize=22"
     width="100%"
   />
 </p>
@@ -19,7 +19,7 @@
 root@adnan:~# whoami
 
 Name      : Mohammad Adnan Shaikh
-Alias     : x219
+Alias     : AndiPop
 Role      : Cybersecurity Student
 Focus     : Web Security | AI Security | Digital Forensics
 Location  : India
