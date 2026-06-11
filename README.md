@@ -82,6 +82,21 @@ Current Operation:
 
 ---
 
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/THREAT_LEVEL-HIGH-red?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-green?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20HACKING-red?style=for-the-badge&labelColor=000000" />
+
+</p>
+
+
+
 # 🎯 ACTIVE TRAINING
 
 ```diff
@@ -97,11 +112,20 @@ Current Operation:
 
 ---
 
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github.com/Andipop0912/Andipop0912/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
 # 📊 THREAT INTELLIGENCE DASHBOARD
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andipop0912&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andipop0912&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
@@ -109,7 +133,7 @@ Current Operation:
 # 🔥 CONTRIBUTION HEATMAP
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andipop0912&theme=highcontrast"/>
 </p>
 
 ---
