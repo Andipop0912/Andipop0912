@@ -1,7 +1,10 @@
 <!-- RED-BLACK HACKER BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&text=MOHAMMAD%20ADNAN%20SHAIKH&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,12,24&text=ADNAN%20SHAIKH&fontColor=ffffff&fontSize=70&animation=fadeIn&stroke=ff0000&strokeWidth=2&desc=x219%20%7C%20Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker&descAlignY=70&descSize=22"
+    width="100%"
+  />
 </p>
 
 <p align="center">
