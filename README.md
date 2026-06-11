@@ -26,6 +26,17 @@ Location  : India
 
 Status    : Learning • Exploiting • Securing
 ```
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Andipop0912&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/THREAT_LEVEL-HIGH-red?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-green?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20HACKING-red?style=for-the-badge&labelColor=000000" />
+
+</p>
 
 ---
 
@@ -81,20 +92,6 @@ Current Operation:
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge\&logoColor=ff0000)
 
 ---
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/THREAT_LEVEL-HIGH-red?style=for-the-badge&labelColor=000000" />
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-green?style=for-the-badge&labelColor=000000" />
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20HACKING-red?style=for-the-badge&labelColor=000000" />
-
-</p>
-
 
 
 # 🎯 ACTIVE TRAINING
